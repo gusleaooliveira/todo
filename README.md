@@ -26,4 +26,4 @@ Em outro rode:
 `yarn start`
 
 
-Abra o **https://localhost:3000/**
+Abra o **http://localhost:3000/**
